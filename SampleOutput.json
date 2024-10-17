@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "Five NFL teams poised to take a major leap in 2024: Packers look the part of contender, Bengals turnaround? - CBS Sports",
+        "description": "These teams are primed to take a big step forward next season",
+        "url": "https://www.cbssports.com/nfl/news/five-nfl-teams-poised-to-take-a-major-leap-in-2024-packers-look-the-part-of-contender-bengals-turnaround/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/02/13/3c8cb27a-d4f4-4262-82b0-c7e612beea4a/thumbnail/1200x675/dabf37f2d4937c757e9bf842e8f8f76a/burrow-jpeg.jpg",
+        "publishedAt": "2024-02-14T07:34:00Z",
+        "content": "The NFL season has come and gone with a familiar team reigning on top in the Kansas City Chiefs, the first to repeat as Super Bowl champions since the 2003-2004 New England Patriots. While Kansas Cit… [+6012 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Callie Lawson-Freeman",
+        "title": "Kyle Shanahan stands by OT decision in 49ers' Super Bowl loss, defends track record in big games - Yahoo Sports",
+        "description": "\"To say that the Niners can’t win a big game would be an extremely inaccurate statement,” Shanahan said.",
+        "url": "https://sports.yahoo.com/kyle-shanahan-stands-by-ot-decision-in-49ers-super-bowl-loss-defends-track-record-in-big-games-224527332.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/SZBtRqyLwxjgYgAVIdogSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/ee4cf1b0-cab7-11ee-ba8f-cced449a65db",
+        "publishedAt": "2024-02-13T23:36:00Z",
+        "content": "Two days removed from losing Super Bowl LVIII to the Kansas City Chiefs, San Francisco 49ers head coach Kyle Shanahan sat at a podium with general manager John Lynch on Tuesday and addressed reporter… [+3316 chars]"
+      }
+    ]
+  }
